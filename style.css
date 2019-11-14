@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/**GERAIS**/
+
+h2,
+h3,
+p,
+label,
+button {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/**CONTATO**/
