@@ -85,6 +85,7 @@ titulo3-da-sessao{
     text-align:justify ;
     font-size: 18px;
     padding-bottom: 20px;
+  
 }
 
 #paragrafo3-da-sessao{
@@ -92,6 +93,7 @@ titulo3-da-sessao{
     text-align:justify ;
     font-size: 18px;
     grid-row: 4;
+    
 }
 
 footer{
